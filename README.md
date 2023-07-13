@@ -24,6 +24,7 @@ The total field is the superposition of the attractive and repulsive fields.
 
 
 ![444](https://github.com/chumoyot/Computational-Motion-Planning-Artificial-Potentials-Method/assets/135506318/6cce5616-4c6e-4faf-8023-fb929460d64f)
+
 The resultsnt force on each object is the sum of its repusive and attractive forces. 
 
 Again, from my seat, I modelled my indoor environment with walls representing obstacles and rooms representing free spaces but it run into a local minimum. With slight pertubation to the object, I would set it on course again to the goal location, I will probably update here once I do that. Here are the visuals with some random obstacles.
