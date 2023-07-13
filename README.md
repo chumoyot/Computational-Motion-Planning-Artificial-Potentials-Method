@@ -1,7 +1,7 @@
 # Computational-Motion-Planning-Artificial-Potentials-Method
 A different method of motion planning entails the creation of artificial potential fields that are intended to draw the robot to the desired target configuration and repel it from obstructions in the configuration space. The gradient of this potential function can then be used to direct the robot's mobility. Obstacles repulse objects and prevent them from colliding with them. 
 
-The explanation which explains it in the easiest way possible is here. https://blog.csdn.net/junshen1314/article/details/50472410 
+The explanation which explains it in the easiest way possible is here. It is in Chinese so you'll have to translate. https://blog.csdn.net/junshen1314/article/details/50472410 On the side, the articles on CSDN are god-send! I owe my eternal gratitude to those chinese folks.
 
 Let's see how to construct the fields.
 
